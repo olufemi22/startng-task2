@@ -1,0 +1,25 @@
+ h2 {
+  color: maroon;
+  text-align: side;
+  }
+h1 {
+  color: navy;
+  text-align: center;
+}
+p  {
+	color:red:
+}
+body {
+  background-color: lightblue;
+}
+table, th, td {
+  border: 4px solid black; text-align: left; border-collapse: collapse; padding: 10px; 
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: left;
+  background-color: lightblue;
+  color: black;
+  height:10px 
+  }
+
+
